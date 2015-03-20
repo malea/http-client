@@ -8,4 +8,4 @@
 
     ./a.out http://www.URLHERE:PORTHERE/PATHHERE/
 
-
+Note: if port left unspecified, it will be set to the default (80)
